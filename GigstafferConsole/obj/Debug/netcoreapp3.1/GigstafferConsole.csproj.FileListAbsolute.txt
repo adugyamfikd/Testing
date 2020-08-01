@@ -1,0 +1,11 @@
+C:\Interdept\Gigstaffer\GigstafferConsole\GigstafferConsole\bin\Debug\netcoreapp3.1\GigstafferConsole.exe
+C:\Interdept\Gigstaffer\GigstafferConsole\GigstafferConsole\bin\Debug\netcoreapp3.1\GigstafferConsole.deps.json
+C:\Interdept\Gigstaffer\GigstafferConsole\GigstafferConsole\bin\Debug\netcoreapp3.1\GigstafferConsole.runtimeconfig.json
+C:\Interdept\Gigstaffer\GigstafferConsole\GigstafferConsole\bin\Debug\netcoreapp3.1\GigstafferConsole.runtimeconfig.dev.json
+C:\Interdept\Gigstaffer\GigstafferConsole\GigstafferConsole\bin\Debug\netcoreapp3.1\GigstafferConsole.dll
+C:\Interdept\Gigstaffer\GigstafferConsole\GigstafferConsole\bin\Debug\netcoreapp3.1\GigstafferConsole.pdb
+C:\Interdept\Gigstaffer\GigstafferConsole\GigstafferConsole\obj\Debug\netcoreapp3.1\GigstafferConsole.csprojAssemblyReference.cache
+C:\Interdept\Gigstaffer\GigstafferConsole\GigstafferConsole\obj\Debug\netcoreapp3.1\GigstafferConsole.AssemblyInfoInputs.cache
+C:\Interdept\Gigstaffer\GigstafferConsole\GigstafferConsole\obj\Debug\netcoreapp3.1\GigstafferConsole.AssemblyInfo.cs
+C:\Interdept\Gigstaffer\GigstafferConsole\GigstafferConsole\obj\Debug\netcoreapp3.1\GigstafferConsole.dll
+C:\Interdept\Gigstaffer\GigstafferConsole\GigstafferConsole\obj\Debug\netcoreapp3.1\GigstafferConsole.pdb
